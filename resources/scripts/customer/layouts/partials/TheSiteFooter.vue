@@ -16,12 +16,12 @@
       bg-white
     "
   >
-    Powered by
+    With Love by
     <a
-      href="http://bytefury.com/"
+      href="https://criation.de"
       target="_blank"
       class="pl-1 font-normal text-gray-900"
-      >Bytefury
+      >criation
     </a>
   </footer>
 </template>
